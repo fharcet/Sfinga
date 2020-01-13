@@ -9,6 +9,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".DrugoVprasanjeActivity"></activity>
+        <activity android:name=".DesetoVprasanjeActivity" />
+        <activity android:name=".DevetoVprasanjeActivity" />
+        <activity android:name=".OsmoVprasanjeActivity" />
+        <activity android:name=".SedmoVprasanjeActivity" />
+        <activity android:name=".SestoVprasanjeActivity" />
+        <activity android:name=".PetoVprasanjeActivity" />
+        <activity android:name=".CetrtoVprasanjeActivity" />
+        <activity android:name=".TretjeVprasanjeActivity" />
+        <activity android:name=".PrvoVprasanjeActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
